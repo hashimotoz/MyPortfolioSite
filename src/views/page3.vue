@@ -32,7 +32,7 @@ export default {
     return {
       works:[
         {
-        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/my-portfolio/src/assets/work0.5.png") ,
+        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work0.png") ,
         title: "橋本美咲のポートフォリオ",
         description: "フレームワークの勉強もかねてVue.jsを使用し、SPAサイトを作りました。サイトのデザインは某印の無い良品をイメージして作成しています。",
         words:"javascripts vue.js",
@@ -40,7 +40,7 @@ export default {
         url:"http://localhost:8081/"
         },
         {
-        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/my-portfolio/src/assets/work1.png") ,
+        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work1.png") ,
         title:"あなたの頑張りを記録するアプリ",
         description:"ドットインストールで学んだストップウォッチをベースに、時間と内容を記録できるアプリを作ってみました。",
         words:"javascripts jQuery",
@@ -48,7 +48,7 @@ export default {
         url:"https://hashimotoz.github.io/LetsRecordStudyTime/"
         },
         {
-        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/my-portfolio/src/assets/coming-soon.png") ,
+        image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/coming-soon.png") ,
         title: "ただいま制作中",
         description: "---",
         words:"---",
