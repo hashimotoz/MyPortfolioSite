@@ -2,7 +2,17 @@
 <div class="works">
     <div class="works_title">
       <h1>制作物</h1>
-      <p>めちゃんこがんばって作りました。穏やかな心で御覧ください。</p>
+      <div class="for_pc">
+        <p>めちゃんこがんばって作りました。穏やかな心で御覧ください。</p>
+      </div>
+      <div class="for_sp">
+        <p>
+          めちゃんこがんばって作りました。
+        </p>
+        <p>
+          穏やかな心で御覧ください。
+        </p>
+      </div>
     </div>
     
     <div id ="works" class = "works_items">
@@ -67,6 +77,10 @@ export default {
   
   h1{
     font-size: 40px;
+  }
+
+  .for_sp{
+    display: none;
   }
 }
 
@@ -160,10 +174,14 @@ export default {
   h1{
     font-size: 25px;
   }
-  p{
-    font-size: 18px;
-    word-break: keep-all;
+
+  .for_pc{
+    display: none;
   }
+.for_sp{
+    display: block;
+  }
+
 }
 
 .works_items{
