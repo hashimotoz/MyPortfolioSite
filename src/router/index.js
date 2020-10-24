@@ -19,7 +19,7 @@ Vue.use(VueRouter)
     component: page2
   },
   {
-    path: '/https://hashimotoz.github.io/MyPortfolioSite/page2',
+    path: 'hashimotoz.github.io/MyPortfolioSite/page2',
     name: 'page2',
     component: page2
   },
@@ -29,7 +29,7 @@ Vue.use(VueRouter)
     component: page3
   },
   {
-    path: '/https://hashimotoz.github.io/MyPortfolioSite/page3',
+    path: 'hashimotoz.github.io/MyPortfolioSite/page3',
     name: 'page3',
     component: page3
   },
@@ -39,7 +39,7 @@ Vue.use(VueRouter)
     component: page4
   },
   {
-    path: '/https://hashimotoz.github.io/MyPortfolioSite/page4',
+    path: 'hashimotoz.github.io/MyPortfolioSite/page4',
     name: 'page4',
     component: page4
   },
