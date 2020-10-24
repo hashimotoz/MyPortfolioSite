@@ -19,27 +19,12 @@ Vue.use(VueRouter)
     component: page2
   },
   {
-    path: '/hashimotoz.github.io/MyPortfolioSite/page2',
-    name: 'page2',
-    component: page2
-  },
-  {
     path: '/page3',
     name: 'page3',
     component: page3
   },
   {
-    path: 'hashimotoz.github.io/MyPortfolioSite/page3',
-    name: 'page3',
-    component: page3
-  },
-  {
     path: '/page4',
-    name: 'page4',
-    component: page4
-  },
-  {
-    path: 'hashimotoz.github.io/MyPortfolioSite/page4',
     name: 'page4',
     component: page4
   },
