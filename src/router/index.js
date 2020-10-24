@@ -19,7 +19,7 @@ Vue.use(VueRouter)
     component: page2
   },
   {
-    path: 'hashimotoz.github.io/MyPortfolioSite/page2',
+    path: '/hashimotoz.github.io/MyPortfolioSite/page2',
     name: 'page2',
     component: page2
   },
@@ -44,7 +44,7 @@ Vue.use(VueRouter)
     component: page4
   },
   {
-    path:'*',
+    path: '*',
     name: 'home',
     component: home
   }
