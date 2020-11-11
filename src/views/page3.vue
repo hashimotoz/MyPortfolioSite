@@ -44,7 +44,7 @@ export default {
         {
         image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work0.png") ,
         title: "橋本美咲のポートフォリオ",
-        description: "フレームワークの勉強もかねてVue.jsを使用し、SPAサイトを作りました。サイトのデザインは某印の無い良品をイメージして作成しています。",
+        description: "Vue.jsを使用し、SPAサイトを作りました。サイトのデザインは某印の無い良品をイメージして作成しています。",
         words:"javascripts vue.js",
         duration:"１ヶ月",
         url:"http://localhost:8081/"
