@@ -45,7 +45,7 @@ export default {
         image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work0.png") ,
         title: "橋本美咲のポートフォリオ",
         description: "Vue.jsを使用し、SPAサイトを作りました。サイトのデザインは某印の無い良品をイメージして作成しています。",
-        words:"javascripts vue.js",
+        words:"HTML  CSS  Vue.js",
         duration:"１ヶ月",
         url:"http://localhost:8081/"
         },
@@ -53,7 +53,7 @@ export default {
         image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work1.png") ,
         title:"あなたの頑張りを記録するアプリ",
         description:"ドットインストールで学んだストップウォッチをベースに、時間と内容を記録できるアプリを作ってみました。",
-        words:"javascripts jQuery",
+        words:"HTML  CSS  JavaScript  jQuery",
         duration:"１ヶ月",
         url:"https://hashimotoz.github.io/LetsRecordStudyTime/"
         },
