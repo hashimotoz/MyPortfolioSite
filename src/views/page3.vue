@@ -47,7 +47,7 @@ export default {
         description: "Vue.jsを使用し、SPAサイトを作りました。サイトのデザインは某印の無い良品をイメージして作成しています。",
         words:"HTML  CSS  Vue.js",
         duration:"１ヶ月",
-        url:"http://localhost:8081/"
+        url:"https://hashimotoz.github.io/MyPortfolioSite/"
         },
         {
         image_src: require("/Users/hashimotomisaki/Documents/プログラミング/ポートフォリオ/セット_main/MyPortfolioSite/src/assets/work1.png") ,
